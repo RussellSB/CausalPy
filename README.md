@@ -178,3 +178,5 @@ Plans for the repository can be seen in the [Issues](https://github.com/pymc-lab
 </a>
 
 The contributor image is regenerated weekly by a GitHub Actions workflow (`.github/workflows/contributors.yml`) that opens a PR when the contributor list changes.
+
+<!-- RTD skip-smoke test branch -->
