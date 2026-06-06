@@ -15,3 +15,5 @@ knowledgebase/index
 api/index
 notebooks/index
 :::
+
+<!-- RTD full-build smoke test branch -->
